@@ -29,7 +29,7 @@ I am currently seeking opportunity to pursue a Ph.D. If you're interested in my 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I have been selected as Outstanding Graduates of UESTC.
 
-- *2024.05*: &nbsp;🎉🎉 I have been awarded a travel grant by the IEEE Computational Intelligence Society to attend the IEEE World Congress on Computational Intelligence (WCCI) 2024.
+- *2024.05*: &nbsp;🎉🎉 I have been awarded the travel grant by the IEEE Computational Intelligence Society to attend the IEEE World Congress on Computational Intelligence (WCCI) 2024.
 
 - *2024.03*: &nbsp;🎉🎉 [HFF](https://ieeexplore.ieee.org/document/10650044) has been accepted by IJCNN 2024.
 
@@ -97,8 +97,8 @@ Wei wei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 # 🎖 Honors and Awards
 - *3 times in 2022-Present*: Academic Scholarship of UESTC
 - *2024.11*: Outstanding Graduates of UESTC 
-- *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.pdf)
-- *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.pdf)
+- *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.png)
+- *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.png)
 - *2023.10*: The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (Autumn 2023) [[certificate]](../certificate/UESTC_BM_A.png)
 - *2023.10*: The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition [[certificate]](../certificate/UESTC_Intelligent_City.png)
 - *2023.08*: The Certificate of “Tencent Rhino-bird Open-source Training Program” project [[certificate]](../certificate/UESTC_Tencent.png)
@@ -106,7 +106,7 @@ Wei wei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 - *2023.06*: The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (Spring 2023) [[certificate]](../certificate/UESTC_BM_S.png)
 
 
-- *4 times in 2018-2022*: Academic Scholarship of CUIT [[certificate]](../certificate/CUIT_ Scholarship.pdf)
+- *4 times in 2018-2022*: Academic Scholarship of CUIT [[certificate]](../certificate/CUIT_ Scholarship.png)
 - *2021.12*: Outstanding Graduates of CUIT [[certificate]](../certificate/CUIT_OG.png)
 - *2021.12*: Merit Student of CUIT [[certificate]](../certificate/CUIT_Merit.jpg)
 - *2021.12*: As the class monitor, I led our class to achieve the title of 'Excellent Class' at CUIT [[certificate]](../certificate/CUIT_EC.jpg)
