@@ -74,7 +74,7 @@ Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Model f
 
 Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering
 
-Wei wei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
+Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 </div>
 </div>
