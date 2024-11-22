@@ -21,13 +21,13 @@ I am Qi Deng, final year master student of computer technology at School of Comp
 
 My research focuses on reinforcement learning, multimodal machine learning, game theory, and LLM-based agents, which are the tangible expressions of my passion for realizing artificial general intelligence. My research vision is to integrate reinforcement learning, multimodal machine learning, and game theory, aiming to develop artificial intelligence agents that perceive their environment, learn from multimodal data, improve from human feedback or preferences, coordinate actions for common goals, and adapt dynamically.
 
-I am currently seeking opportunity to pursue a Ph.D. If you're interested in my background and qualifications, please feel free to check my [Curriculum Vitae](../individual/CV.pdf) and [Research Statement](../individual/RS.pdf).
+I am currently seeking opportunity to pursue a Ph.D. If you're interested in my background and research, please feel free to check my [Curriculum Vitae](../individual/CV.pdf) and [Research Statement](../individual/RS.pdf).
 
 
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I have been selected as Outstanding Graduates of UESTC.
+- *2024.11*: &nbsp;🎉🎉 I am honored with Excellent Postgraduate Student & Outstanding Graduate of UESTC.
 
 - *2024.05*: &nbsp;🎉🎉 I have been awarded the travel grant by the IEEE Computational Intelligence Society to attend the IEEE World Congress on Computational Intelligence (WCCI) 2024.
 
@@ -86,7 +86,7 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 - *2024.02*: Technical program committee reviewer for WCCI 2024.
 
-- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence.
+- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence. 
 
 - *2024.03 - 2024.07*: Internship at Chengdu KeHongda Technology Co., Ltd.
 
@@ -95,8 +95,9 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
   
 
 # 🎖 Honors and Awards
-- *3 times in 2022-Present*: Academic Scholarship of UESTC
-- *2024.11*: Outstanding Graduates of UESTC 
+- *3 times in 2022-Present*: Academic Scholarship of UESTC 
+- *2024.11*: Outstanding Graduate of UESTC 
+- *2024.11*: Excellent Postgraduate Student of UESTC [[certificate]](../certificate/UESTC_EPS.png)
 - *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.png)
 - *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.png)
 - *2023.10*: The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (Autumn 2023) [[certificate]](../certificate/UESTC_BM_A.png)
@@ -107,12 +108,12 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 
 - *4 times in 2018-2022*: Academic Scholarship of CUIT [[certificate]](../certificate/CUIT_ Scholarship.png)
-- *2021.12*: Outstanding Graduates of CUIT [[certificate]](../certificate/CUIT_OG.png)
+- *2021.12*: Outstanding Graduate of CUIT [[certificate]](../certificate/CUIT_OG.png)
 - *2021.12*: Merit Student of CUIT [[certificate]](../certificate/CUIT_Merit.jpg)
 - *2021.12*: As the class monitor, I led our class to achieve the title of 'Excellent Class' at CUIT [[certificate]](../certificate/CUIT_EC.jpg)
 - *2021.05*: Youth Role Model of CUIT (top 0.5%) [[certificate]](../certificate/CUIT_Youth.jpg)
 - *2020.12*: Comprehensive Quality A Certificate of Sichuan Province [[certificate]](../certificate/CUIT_QA.png)
 - *2020.06*: Special Prize Team of Summer Rural Social Practice [[certificate]](../certificate/CUIT_SRSP.png)
-- *2019.11*: Outstanding Student Leaders of CUIT [[certificate]](../certificate/CUIT_OSL.JPG)
+- *2019.11*: Excellent Student Leaders of CUIT [[certificate]](../certificate/CUIT_OSL.JPG)
 - *2019.04*: Excellent Volunteer of 2019 National Meteorological Science Exposition Competition [[certificate]](../certificate/CUIT_Volunteer.jpg)
 
