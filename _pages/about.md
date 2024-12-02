@@ -62,7 +62,7 @@ I am currently seeking opportunity to pursue a Ph.D. If you're interested in my 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/NcHo-AC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Model for Adaptive Traffic Signal Control
+Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Framework for Adaptive Traffic Signal Control
 
 **Qi Deng**, Lijun Wu, Zhiyuan Li, Kaile Su, Wei Wu, Weiwei Duan
 
