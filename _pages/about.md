@@ -84,7 +84,7 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 # 💻 Experiences
 - *2023.09 - 2024.01*: Serve as teaching assistant for the graduate course "Formal Method".
 
-- *2024.02*: Reviewer IJCNN 2024.
+- *2024.02*: Reviewer for IJCNN 2024.
 
 - *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence. 
 
