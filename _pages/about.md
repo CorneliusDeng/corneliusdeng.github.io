@@ -69,6 +69,22 @@ Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Framewo
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Science</div><img src='papers/BBVA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Boundary Black-box Adversarial Example Generation Algorithm on Video Recognition Models
+
+Yulin Jing, Lijun Wu, Zhiyuan Li, **Qi Deng**
+
+Computer Science, 2025
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/AGAT-IL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
