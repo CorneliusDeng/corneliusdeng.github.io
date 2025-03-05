@@ -37,9 +37,9 @@ I am currently seeking opportunity to pursue a Ph.D. If you're interested in my 
 
 # 📖 Educations
 
-- *2022.09 - Present*: M.S. student in the School of Computer Science and Engineering at UESTC.
+- *2022.09 - Present*: M.S. student at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 
-- *2018.09 - 2022.06*: B.S. student in the School of Software Engineering at CUIT.
+- *2018.09 - 2022.06*: B.S. student at School of Software Engineering, Chengdu University of Information Technology.
 
   
 
@@ -108,7 +108,9 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
   I contributed to constructing an intelligent target tracking system and was primarily responsible for researching and reproducing the state-of-the-art occluded face recognition algorithms.
 
-- *2024.12*: Reviewer for IJCNN 2025.
+- *2025.02*: Reviewer for IJCNN 2025.
+
+- *2024.09 - Present*: Research Group Project: Artificial Intelligence Large Model for Intelligent Legislation.
 
 
 
