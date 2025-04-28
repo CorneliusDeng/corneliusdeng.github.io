@@ -116,7 +116,7 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 # 🎖 Honors and Awards
 - *3 times in 2022-Present*: Academic Scholarship of UESTC 
-- *2024.11*: Outstanding Graduate of UESTC 
+- *2024.11*: Outstanding Graduate of UESTC [[certificate]](../certificate/UESTC_OG.png)
 - *2024.11*: Excellent Postgraduate Student of UESTC [[certificate]](../certificate/UESTC_EPS.png)
 - *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.png)
 - *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.png)
