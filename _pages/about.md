@@ -122,7 +122,8 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 - *3 times in 2022-2025*: Academic Scholarship of UESTC (including Freshmen Scholarship) [[certificate]](../certificate/UESTC_ Scholarship.png)
 - *2025.05*: Outstanding Graduate of UESTC [[certificate]](../certificate/UESTC_OG.png)
 - *2024.11*: Excellent Postgraduate Student of UESTC [[certificate]](../certificate/UESTC_EPS.png)
-- *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.png)
+- *2024.05*: Travel Grant, IEEE Computational Intelligence Society for IEEE WCCI 2024 [[certificate]](../certificate/CIS_TravelGrant.png)
+- *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition [[certificate]](../certificate/UESTC_CCF.png)
 - *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.png)
 - *2023.10*: The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (Autumn 2023) [[certificate]](../certificate/UESTC_BM_A.png)
 - *2023.10*: The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition [[certificate]](../certificate/UESTC_Intelligent_City.png)
@@ -140,4 +141,3 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 - *2020.06*: Special Prize Team of Summer Rural Social Practice [[certificate]](../certificate/CUIT_SRSP.png)
 - *2019.11*: Excellent Student Leaders of CUIT [[certificate]](../certificate/CUIT_OSL.JPG)
 - *2019.04*: Excellent Volunteer of 2019 National Meteorological Science Exposition Competition [[certificate]](../certificate/CUIT_Volunteer.jpg)
-
