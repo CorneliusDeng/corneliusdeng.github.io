@@ -27,11 +27,11 @@ I am currently seeking opportunity to pursue a Ph.D. If you're interested in my 
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I am honored with Excellent Postgraduate Student & Outstanding Graduate of UESTC.
+- *2025.05*: &nbsp;🎉🎉 I am honored with Outstanding Graduate of UESTC.
 
-- *2024.05*: &nbsp;🎉🎉 I have been awarded the travel grant by the IEEE Computational Intelligence Society to attend the IEEE World Congress on Computational Intelligence (WCCI) 2024.
+- *2025.01*: &nbsp;🎉🎉 The collaborative article BBVA has been accepted by the journal *Computer Science*.
 
-- *2024.03*: &nbsp;🎉🎉 [HFF](https://ieeexplore.ieee.org/document/10650044) has been accepted by IJCNN 2024.
+- *2024.11*: &nbsp;🎉🎉 I am honored with Excellent Postgraduate Student & First-Class Academic Scholarship of UESTC.
 
   
 
@@ -59,8 +59,9 @@ I am currently seeking opportunity to pursue a Ph.D. If you're interested in my 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/NcHo-AC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Major Revision</div><img src='papers/NcHo-AC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Framework for Adaptive Traffic Signal Control
 
@@ -85,8 +86,9 @@ Computer Science, 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='papers/AGAT-IL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Major Revision</div><img src='papers/AGAT-IL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering
 
@@ -110,13 +112,15 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 - *2025.02*: Reviewer for IJCNN 2025.
 
-- *2024.09 - Present*: Research Group Project: Artificial Intelligence Large Model for Intelligent Legislation.
+- *2024.09 - 2025.03*: Research Group Project: Artificial Intelligence Large Model for Intelligent Legislation.
+
+  This project focuses on developing an AI system specialized in legislative analysis. The system is designed to process complex legal texts and identify contradictions between superior laws and peer regulations. My core task involves designing automated conflict detection mechanisms that highlight legislative inconsistencies and generate actionable amendment suggestions. The key implementations integrate domain-adapted model distillation for legislative knowledge transfer, a fine-grained Mixture of Experts (MoE) framework that decomposes the legislative analysis pipeline into specialized sub-tasks, Retrieval Augmented Generation (RAG) based prompt engineering, and Reinforcement Learning from Human Feedback (RLHF) that continuously optimizes conflict detection through iterative expert evaluations.
 
 
 
 # 🎖 Honors and Awards
-- *3 times in 2022-Present*: Academic Scholarship of UESTC 
-- *2024.11*: Outstanding Graduate of UESTC [[certificate]](../certificate/UESTC_OG.png)
+- *3 times in 2022-2025*: Academic Scholarship of UESTC (including Freshmen Scholarship) [[certificate]](../certificate/UESTC_ Scholarship.png)
+- *2025.05*: Outstanding Graduate of UESTC [[certificate]](../certificate/UESTC_OG.png)
 - *2024.11*: Excellent Postgraduate Student of UESTC [[certificate]](../certificate/UESTC_EPS.png)
 - *2024.03*: The Second Prize in CCF China CAT National Algorithm Elite Competition   [[certificate]](../certificate/UESTC_CCF.png)
 - *2023.11*:  Volunteer of Tsinghua University Press Cup College Student Algorithm Competition  [[certificate]](../certificate/UESTC_Tsinghua.png)
