@@ -100,21 +100,19 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 
 # 💻 Experiences
-- *2023.09 - 2024.01*: Serve as teaching assistant for the graduate course "Formal Method".
+- *2024.09 - 2025.03*: Research Group Project: Artificial Intelligence Large Model for Intelligent Legislation.
 
-- *2024.02*: Reviewer for IJCNN 2024.
+  This project focuses on developing an AI system specialized in legislative analysis. The system is designed to process complex legal texts and identify contradictions between superior laws and peer regulations. My core task involves designing automated conflict detection mechanisms that highlight legislative inconsistencies and generate actionable amendment suggestions. The key implementations integrate domain-adapted model distillation for legislative knowledge transfer, a fine-grained Mixture of Experts (MoE) framework that decomposes the legislative analysis pipeline into specialized sub-tasks, Retrieval Augmented Generation (RAG) based prompt engineering, and Reinforcement Learning from Human Feedback (RLHF) that continuously optimizes conflict detection through iterative expert evaluations.
 
-- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence. 
+- *2025.02*: Reviewer for IJCNN 2025.
 
 - *2024.03 - 2024.07*: Internship at Chengdu KeHongda Technology Co., Ltd.
 
   I contributed to constructing an intelligent target tracking system and was primarily responsible for researching and reproducing the state-of-the-art occluded face recognition algorithms.
 
-- *2025.02*: Reviewer for IJCNN 2025.
-
-- *2024.09 - 2025.03*: Research Group Project: Artificial Intelligence Large Model for Intelligent Legislation.
-
-  This project focuses on developing an AI system specialized in legislative analysis. The system is designed to process complex legal texts and identify contradictions between superior laws and peer regulations. My core task involves designing automated conflict detection mechanisms that highlight legislative inconsistencies and generate actionable amendment suggestions. The key implementations integrate domain-adapted model distillation for legislative knowledge transfer, a fine-grained Mixture of Experts (MoE) framework that decomposes the legislative analysis pipeline into specialized sub-tasks, Retrieval Augmented Generation (RAG) based prompt engineering, and Reinforcement Learning from Human Feedback (RLHF) that continuously optimizes conflict detection through iterative expert evaluations.
+- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence. 
+- *2024.02*: Reviewer for IJCNN 2024.
+- *2023.09 - 2024.01*: Serve as teaching assistant for the graduate course "Formal Method".
 
 
 
