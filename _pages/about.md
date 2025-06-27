@@ -21,6 +21,8 @@ I am Qi Deng, a Ph.D. student in Computer Science at the School of Engineering a
 
 Previously, I completed my M.S. in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my B.S. in Software Engineering at [Chengdu University of Information Technology (CUIT)](https://english.cuit.edu.cn/).
 
+[Curriculum Vitae](../individual/CV.pdf)
+
 
 # 🔥 News
 - *Jun. 2025*: &nbsp;🎉🎉 My paper NcHo-AC has been accepted by the journal *Applied Intelligence*.
@@ -130,7 +132,7 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 
 ## Teaching Service
 
-- Teaching Assistant | Graduate Course: Formal Methods  
+- Teaching Assistant for graduate course "Formal Methods" 
 
   *University of Electronic Science and Technology of China, Sep. 2023 - Jan. 2024*
 
