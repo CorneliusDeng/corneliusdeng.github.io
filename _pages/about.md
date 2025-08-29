@@ -64,6 +64,8 @@ Previously, I earned my Master's degree in Computer Technology at [University of
 
 **Qi Deng**, Lijun Wu, Zhiyuan Li, Kaile Su, Wei Wu, Weiwei Duan
 
+Applied Intelligence, 2025
+
 </div>
 </div>
 
@@ -75,7 +77,9 @@ Previously, I earned my Master's degree in Computer Technology at [University of
 
 [Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763)
 
-Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
+Weiwei Duan, Luping Ji, Lijun Wu, **Qi Deng**, Zhiyuan Li
+
+Engineering Applications of Artificial Intelligence, 2025
 
 </div>
 </div>
