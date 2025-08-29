@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Deng (邓棋)"
   avatar           : "images/Qi Deng.jpg"
-  bio              : "Ph.D. student at Victoria University of Wellington"
+  bio              : "Ph.D student at Victoria University of Wellington"
   location         : "Wellington, New Zealand"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "qi-deng-773029347" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-3755-6279"
   pinterest        :

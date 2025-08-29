@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Qi Deng, a Ph.D. student in Computer Science at the School of Engineering and Computer Science, [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/). My supervisors are [A/Prof. Aaron Chen](https://people.wgtn.ac.nz/Aaron.Chen) and [A/Prof. Yi Mei](https://people.wgtn.ac.nz/Yi.Mei). My research focuses on reinforcement learning, multimodal machine learning, game theory, and LLM-based agents, which are the tangible expressions of my passion for realizing artificial general intelligence. My research vision is to integrate reinforcement learning, multimodal machine learning, and game theory, aiming to develop artificial intelligence agents that perceive their environment, learn from multimodal data, improve from human feedback or preferences, coordinate actions for common goals, and adapt dynamically.
+I am Qi Deng, a Ph.D student in Computer Science at the School of Engineering and Computer Science, [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/). My supervisors are [A/Prof. Aaron Chen](https://people.wgtn.ac.nz/Aaron.Chen) and [A/Prof. Yi Mei](https://people.wgtn.ac.nz/Yi.Mei). My research focuses on reinforcement learning, multimodal machine learning, game theory, and LLM-based agents, which are the tangible expressions of my passion for realizing artificial general intelligence. My research vision is to integrate reinforcement learning, multimodal machine learning, and game theory, aiming to develop artificial intelligence agents that perceive their environment, learn from multimodal data, improve from human feedback or preferences, coordinate actions for common goals, and adapt dynamically.
 
-Previously, I completed my M.S. in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my B.S. in Software Engineering at [Chengdu University of Information Technology (CUIT)](https://english.cuit.edu.cn/).
-
-[Curriculum Vitae](../individual/CV.pdf)
+Previously, I earned my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my Bachelor's degree in Software Engineering at [Chengdu University of Information Technology (CUIT)](https://english.cuit.edu.cn/).
 
 
 # 🔥 News
@@ -33,23 +31,20 @@ Previously, I completed my M.S. in Computer Technology at [University of Electro
 
 - *Jan. 2025*: &nbsp;🎉🎉 The collaborative paper BBVA has been accepted by the journal *Computer Science*.
 
-  
 
 # 📖 Educations
 
-- *Sep. 2025 - Present*: Ph.D. student at School of Engineering and Computer Science, Victoria University of Wellington.
+- *Sep. 2025 - Present*: Ph.D. in Computer Science at School of Engineering and Computer Science, Victoria University of Wellington.
 
-- *Sep. 2022 - Jun. 2025*: M.S. student at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
+- *Sep. 2022 - Jun. 2025*: M.Eng. in Computer Technology at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 
-- *Sep. 2018- Jun. 2022*: B.S. student at School of Software Engineering, Chengdu University of Information Technology.
+- *Sep. 2018- Jun. 2022*: B.Eng. in Software Engineering at School of Software Engineering, Chengdu University of Information Technology.
 
   
-
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='papers/HFF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Hierarchical Fusion Framework for Multimodal Dialogue Response Generation](https://ieeexplore.ieee.org/document/10650044)
 
 **Qi Deng**, Lijun Wu, Kaile Su, Wei Wu, Zhiyuan Li, Weiwei Duan
@@ -65,24 +60,9 @@ Previously, I completed my M.S. in Computer Technology at [University of Electro
 <div class='paper-box-text' markdown="1">
 
 
-
-Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Framework for Adaptive Traffic Signal Control
+[Multi-Agent Neighborhood Coordinated and Holistic Optimized Actor-Critic Framework for Adaptive Traffic Signal Control](https://link.springer.com/article/10.1007/s10489-025-06758-x)
 
 **Qi Deng**, Lijun Wu, Zhiyuan Li, Kaile Su, Wei Wu, Weiwei Duan
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Science</div><img src='papers/BBVA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Boundary Black-box Adversarial Example Generation Algorithm on Video Recognition Models
-
-Yulin Jing, Lijun Wu, Zhiyuan Li, **Qi Deng**
-
-Computer Science, 2025
 
 </div>
 </div>
@@ -93,10 +73,26 @@ Computer Science, 2025
 <div class='paper-box-text' markdown="1">
 
 
-
-Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering
+[Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763)
 
 Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Science</div><img src='papers/BBVA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Boundary Black-box Adversarial Example Generation Algorithm on Video Recognition Models
+
+Yulin Jing, Lijun Wu, Zhiyuan Li, **Qi Deng**
+
+Computer Science, 2025
 
 </div>
 </div>
@@ -139,8 +135,10 @@ Weiwei Duan, Lijun Wu, **Qi Deng**, Zhiyuan Li
 ## Conference Reviewer
 
 - International Joint Conference on Neural Networks (IJCNN)
+- ...
 
 ## Journal Reviewer
 
 - Engineering Applications of Artificial Intelligence
 - Expert Systems With Applications
+- ...
