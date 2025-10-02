@@ -34,7 +34,7 @@ Previously, I earned my Master's degree in Computer Technology at [University of
 
 # 📖 Educations
 
-- *Sep. 2025 - Present*: Ph.D. in Computer Science at School of Engineering and Computer Science, Victoria University of Wellington.
+- *Oct. 2025 - Present*: Ph.D. in Computer Science at School of Engineering and Computer Science, Victoria University of Wellington.
 
 - *Sep. 2022 - Jun. 2025*: M.Eng. in Computer Technology at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 
