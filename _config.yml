@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Deng (邓棋)"
   avatar           : "images/Qi Deng.jpg"
-  bio              : "Ph.D student at Victoria University of Wellington"
+  bio              : "PhD student at Victoria University of Wellington"
   location         : "Wellington, New Zealand"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XYYv7R8AAAAJ&hl"
-  email            : "dengqi22@std.uestc.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Qi-Deng-23" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "qi.deng@vuw.ac.nz"
+  researchgate     : "https://www.researchgate.net/profile/Qi-Deng-23" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
